@@ -1,7 +1,6 @@
 # Programming-II
 
-My project is going to be about interior design simulator for every corner of a home that will give the user the opportunity to visualize and put together their ideas of wanted decorations. The app will be able to provide ideas based on three different types of home: apartments, houses, and college dorms. Also, the app will have a direct link to the items being selected by the user for fast purchase. The items will have different physical properties such as color, material, size, etc., which will let the user have more item options to select off from. <br />
-What is the project? The project is a mobile application development available for Android and iOS. <br />
+My project is going to be Treasure Hunt Game grid that the user will have to guess what is the position of the treasures to win the game. <br />
 Who made it? Did you make it independently or with a team? The project was created independently by Gabriela Gutierrez. <br />
 When did you make it? At what level of experience and proficiency were / are you?<br />
 Why did you make it? For fun? For an assignment? How does it relect you as a person?<br />
